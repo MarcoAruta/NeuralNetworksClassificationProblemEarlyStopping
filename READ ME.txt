@@ -1,0 +1,6 @@
+Algorithm for C-class classification problem resolution using the mnist dataset as input.
+Implementation of forward propagation, back propagation and resilient back propagation algorithms.
+Study of the neural network learning process, using a single layer of internal nodes and the sigmoid
+as activation function when the early stopping criterion changes. These criterion are based on
+this scientific paper: "Early Stopping, but when? Lutz Prechelt, 1999".
+In this project two main early stopping algorithms have been considered: GL and PQ.
